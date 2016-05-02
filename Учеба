@@ -1,0 +1,43 @@
+<ul>
+<li>автобусы</li>
+<li>грузовые авто</li>
+<li>легковые авто
+<ul>
+<li>WV</li>
+<Li>Opel</li>
+<li>Honda</li>
+</ul>
+<li>мотоциклы</li>
+<ul>
+<li>Suzuki</li>
+<li>Kawasaki</li>
+</ul>
+</ul>
+<ol start="120">
+  <li>чай</li>
+  <li>кофе</li>
+  <li>молоко</li><hr/>
+
+<hr/>
+<ol reversed>
+  <li>чай</li>
+  <li>кофе</li>
+  <li>молоко</li>
+</ol><hr/><hr/>
+</ol>
+<ol type="A">
+<li>автобусы</li>
+<li>грузовые авто</li>
+<li>самолеты</li>
+<li>легковые авто
+<ol reversed="reversed" type="a" >
+<li>WV</li>
+<Li>Opel</li>
+<li>Honda</li>
+</ol>
+<li>мотоциклы</li>
+<ul>
+<li>Suzuki</li>
+<li>Kawasaki</li>
+</ul>
+</ol>
