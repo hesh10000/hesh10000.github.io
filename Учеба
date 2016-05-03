@@ -41,3 +41,50 @@
 <li>Kawasaki</li>
 </ul>
 </ol>
+<hr/>
+<head>
+<style type="text/css">
+    table { border-collapse: collapse; width: 400px;height=400px;}
+    td { border: 3px solid #000; }
+</style>
+</head>
+
+<Table >
+ <tr>
+      <td colspan="3" bgcolor="#ffffff"><br/>1</td>
+      <td colspan="2"bgcolor="#ffffff"><br/>2</td>
+      <td colspan="2"bgcolor="#fffa69 "><br/>3</td>
+  </tr>
+  <tr>
+      <td rowspan="3"bgcolor="#ffffff"><br/>4</td>
+      <td rowspan="4"colspan="4"bgcolor="#B22222"><br/>5</td>
+      
+      <td rowspan="2"colspan="2"bgcolor="#fffa69 "><br/>9</td>
+     <td bgcolor="#fffa69 "><br/>0
+  </tr></td>
+  <tr>
+     
+     
+      
+     
+     <td bgcolor="#fffa69 "><br/>6</td>
+  </tr>
+  <tr>
+   <td rowspan="2"bgcolor="#fffa69 "><br/>1</td>
+    <td bgcolor="#fffa69 "><br/>1</td>
+  </tr>
+  <tr>
+      <td rowspan="2"bgcolor="#ffffff"><br/>2</td>
+     
+      
+ 
+     <td bgcolor="#fffa69 "><br/>8</td>
+  </tr>
+<tr>
+     <td bgcolor="#ffffff"><br/>9</td>
+      <td bgcolor="#ffffff"><br/>0</td>
+      <td bgcolor="#ffffff"><br/>1</td>
+      <td bgcolor="#ffffff"><br/>2</td>
+      <td bgcolor="#fffa69 "><br/>3</td>
+     <td bgcolor="#fffa69 "><br/>4</td>
+  </tr>
